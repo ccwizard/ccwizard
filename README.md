@@ -1,5 +1,7 @@
 # Computer Consulting Wizards
 
+![GitHub Wizard Profile v2 300x300](https://github.com/ccwizard/ccwizard/assets/20191417/a500a0fa-d57d-448d-a490-3c3ab7da27f4)
+
 ## Accessibility, Learning and Development
 
 ### Accessibility
