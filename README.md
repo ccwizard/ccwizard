@@ -1,6 +1,9 @@
-# Computer Consulting Wizards <img align="right" width="300" height="300" src="https://github.com/ccwizard/ccwizard/assets/20191417/a500a0fa-d57d-448d-a490-3c3ab7da27f4">
 
+# Computer Consulting Wizards 
 ## Accessibility, Learning and Development
+<div style="float: right;"><img align="right" width="300" height="300" src="https://github.com/ccwizard/ccwizard/assets/20191417/a500a0fa-d57d-448d-a490-3c3ab7da27f4"></div>
+
+
 
 ### Accessibility
 I am an advocate for accessibility (A11y). My focus is on web development with HTML 5, CSS 2/3, JavaScript, jQuery, PHP 8.*+ and mySQL. My intent is to create a class to handle creation, validation and processing of forms and ensure that the forms are accessible and responsive.
